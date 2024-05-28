@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpack=self.webpackChunkwebpack||[]).push([[834],{834:(e,c,n)=>{n.r(c),n.d(c,{default:()=>u});var t=n(848);const u=function(){return(0,t.jsx)(t.Fragment,{children:"About"})}}}]);
